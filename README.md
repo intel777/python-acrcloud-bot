@@ -1,5 +1,5 @@
 # python-acrcloud-bot
-Simple [ACRCloud](http://www.acrcloud.com) bot for VK
+Simple [ACRCloud](http://www.acrcloud.com) bot<br>
 You are currently in "VK" branch.<br>
 You can choose "Telegram" if that what are you searching for. I have plans to merege two bots in one branch so both bots can be started by one file.
 
