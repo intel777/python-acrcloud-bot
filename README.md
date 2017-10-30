@@ -6,7 +6,7 @@ You can choose "Telegram" if that what are you searching for. I have plans to me
 Bot works by simply getting received audio message and send it for recognition to ACRCloud, then if song found, trying to search it in vk.com audio database and send it to user.
 
 ## Screenshot
-![Screenshot](https://raw.githubusercontent.com/intel777/python-acrcloud-bot/vk/screenshot/chrome_2017-10-30_21-13-37.png)
+![Screenshot](https://raw.githubusercontent.com/intel777/python-acrcloud-bot/vk/screenshots/chrome_2017-10-30_21-13-37.jpg)
 
 ## Depends on 
 * [VK](https://github.com/dimka665/vk) - wrapper to work with vk<br>
