@@ -25,3 +25,6 @@ So, you wanna create you own recognition bot, what you need to change before sta
 
 ## How to 
 To start bot just execute `python3 main.py` if all settings is OK you can test it by sending an audiomessage with some song to your group's messages.
+
+## Licensing
+Licensed under WTFPL(Do What The Fuck You Want To Public License)
